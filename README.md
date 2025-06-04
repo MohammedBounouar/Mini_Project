@@ -1,84 +1,85 @@
-🏨 MINI_PROJECT
-Empower your bookings, simplify your life.
+<p align="center">
+  <h1 align="center">🏨 MINI_PROJECT</h1>
+  <h3 align="center"><em>Empower your bookings, simplify your life.</em></h3>
 
+  <p align="center">
+    <img src="https://img.shields.io/github/last-commit/MohammedBounouar/Mini_Project?style=for-the-badge" alt="Last Commit" />
+    <img src="https://img.shields.io/github/languages/top/MohammedBounouar/Mini_Project?style=for-the-badge" alt="Top Language" />
+    <img src="https://img.shields.io/github/languages/count/MohammedBounouar/Mini_Project?style=for-the-badge" alt="Languages Count" />
+  </p>
 
+  <p align="center">
+    <em>Built with the tools and technologies:</em><br/>
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle"/>
+    <img src="https://img.shields.io/badge/XML-00618A?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
+    <img src="https://img.shields.io/badge/.bat-4B4B4B?style=for-the-badge" alt="BAT"/>
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" alt="Kotlin"/>
+  </p>
+</p>
 
+---
 
-🛠️ Built With
-Kotlin
+## 📑 Table of Contents
 
-Gradle
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Testing](#testing)
 
-XML
+---
 
-Batch scripts (.bat)
+## 📌 Overview
 
-📑 Table of Contents
-Overview
+This Android-based Kotlin mini-project allows users to easily manage and book appointments or services. The goal is to streamline the booking process with a simple yet efficient user interface.
 
-Getting Started
+---
 
-Prerequisites
+## 🚀 Getting Started
 
-Installation
+These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
-Usage
+---
 
-Testing
+## ✅ Prerequisites
 
-🧩 Overview
-Mini_Project is a comprehensive Android application designed to streamline room booking and management, offering a user-friendly interface and robust backend support.
+- Android Studio (latest stable version)
+- JDK 8+
+- Git
+- Gradle
 
-✨ Why Mini_Project?
-This project empowers developers to build efficient room booking apps with modular architecture and essential features:
+---
 
-🎛️ Gradle Configuration — Simplified setup and dependency management.
+## ⚙️ Installation
 
-👤 User Management — Secure authentication and user registration system.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/MohammedBounouar/Mini_Project
+2. **Navigate to the project directory:**
 
-🏨 Room Booking System — Intuitive interface for managing reservations.
-
-🔄 Real-Time Updates — Dynamic UI changes for up-to-date information.
-
-🧪 Testing Framework — Supports both unit and instrumented testing to ensure reliability.
-
-🚀 Getting Started
-✅ Prerequisites
-Ensure you have the following installed:
-
-Java JDK
-
-Gradle
-
-📦 Installation
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/MohammedBounouar/Mini_Project
 cd Mini_Project
-Build the project:
+```bash
+Install dependencies:
+```
+**Using Gradle:**
+  ```bash
+    gradle build
+```
+💡 Usage
+Launch the project in Android Studio.
 
-bash
-Copy
-Edit
-gradle build
-▶️ Usage
-To run the project:
+Run the app on an emulator or physical device.
 
-bash
-Copy
-Edit
-gradle run
+Start booking!
+
 🧪 Testing
-Mini_Project uses {test_framework} for testing.
+Basic tests can be run using Android Studio's built-in test runner or with:
 
-Run the test suite:
-
-bash
-Copy
-Edit
 gradle test
-🔙 Return to Top
-⬆ Back to top
+🙌 Acknowledgements
+Special thanks to all open-source contributors and resources that inspired or supported this project.
+
+📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+---
